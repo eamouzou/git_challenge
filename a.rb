@@ -9,3 +9,5 @@ new changes
 Boo & Luigi
 
 Mario
+
+Wario
